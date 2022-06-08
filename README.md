@@ -1,16 +1,52 @@
-# payflow
+<h1 align="center">
+  <img alt="PayFlow" src="assets/images/logofull.png" width="200px">
+</h1>
 
-A new Flutter project.
+<p align="center">
+  <a href="#-projeto">Sobre o Projeto</a> •
+  <a href="#-layout">Layout</a> •
+  <a href="#-guia-de-instalação-e-execução">Guia de instalação</a> •
+  <a href="#-tecnologias">Tecnologias</a>
+</p>
 
-## Getting Started
+## 💻 Projeto
 
-This project is a starting point for a Flutter application.
+O projeto PayFlow foi desenvolvido na Next Level Week Together 💜. <br />
+O PayFlow se trata de um app mobile feito em Flutter 💙 para Gerenciamento de Boletos, contendo recursos como o uso de câmera e galeria, Machine Leaning com MLKit, Firebase Core e SignIn, Animações e Estilizações Personalizadas, entre vários outros pontos, como o uso do SharedPreferences.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎨 Layout
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img alt="PayFlow" title="PayFlow" src="assets/images/Capa.png" />
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📚 Guia de instalação e execução
+
+Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git clone https://github.com/vagnereix/payflow
+$ cd payflow
+```
+
+Para iniciá-lo, siga os passos abaixo:
+
+```
+$ flutter pub get
+$ flutter run
+```
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Flutter]()
+- [Firebase]()
+- [MLKit]()
+- [AnimationCard]()
+
+##
+
+<p align="center">
+Feito com 💙&nbsp;e ☕&nbsp;por <a href="https://github.com/vagnereix">Vagner Reis</a>
+</p>
