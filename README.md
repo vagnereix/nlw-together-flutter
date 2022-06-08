@@ -17,7 +17,9 @@ O PayFlow se trata de um app mobile feito em Flutter 💙 para Gerenciamento de 
 ## 🎨 Layout
 
 <p align="center">
-  <img alt="PayFlow" title="PayFlow" src="assets/images/Capa.png" />
+  <a href="https://www.figma.com/file/ZExo5QJePzYCjUuElxVkQh/PayFlow?node-id=50322%3A847">
+    <img alt="PayFlow" title="PayFlow" src="assets/images/Capa.png" />
+  </a>
 </p>
 
 ## 📚 Guia de instalação e execução
