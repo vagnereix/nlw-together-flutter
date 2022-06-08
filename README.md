@@ -42,10 +42,16 @@ $ flutter run
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Flutter]()
-- [Firebase]()
-- [MLKit]()
-- [AnimationCard]()
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/)
+- [Google Sing In](https://pub.dev/packages/google_sign_in)
+- [Shared preferences](https://pub.dev/packages/google_sign_in)
+- [Google's ML Kit](https://pub.dev/packages/google_ml_kit)
+- [Camera](https://pub.dev/packages/camera)
+- [Image Picker](https://pub.dev/packages/image_picker/install)
+- [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter)
+- [Flutter Masked](https://pub.dev/packages/flutter_masked_text2)
+- [AnimationCard](https://pub.dev/packages/animated_card)
 
 ##
 
